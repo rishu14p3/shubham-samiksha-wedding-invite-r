@@ -1,4 +1,5 @@
-const A = '/assets/';
+// const A = '/assets/';
+const A = `${import.meta.env.BASE_URL}assets/`;
 
 export const weddingData = {
     clientId: 'Shubham-Samiksha-wedding-2026',

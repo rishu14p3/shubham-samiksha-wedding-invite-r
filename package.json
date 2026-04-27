@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://shubham14p3.github.io/shubham-samiksha-wedding-invite-r/",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
