@@ -169,6 +169,11 @@ export const weddingData = {
             'Mr. Santosh Kumar',
             'Mr. Manoj Kumar',
             'Sanjana Shree',
+            'Samridh Raj',  
+            'Rishu Raj',
+            'Manas Raj',
+            'Aniruddh Raj',
+            
         ],
 
         blessingsFrom: ['Mr. Parasnath Prasad'],
